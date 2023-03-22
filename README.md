@@ -1,1 +1,3 @@
 # Board-Schematic-for-hobbyist
+
+Only for hobbyists dan DIY fans...
